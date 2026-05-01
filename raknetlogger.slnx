@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="raknetlogger/raknetlogger.vcxproj" Id="4b5821a7-3d6b-48fa-984a-360022b8b53d" />
+</Solution>
